@@ -8,7 +8,7 @@ const { check, runTest, skipTest } = require("../test-api/index.js");
 runTest(
 	"merges two sorted arrays without duplicates",
 	function () {
-		// ....add check() assertions here
+		// .....add check() assertions here
 		const arr1 = [1, 3, 5];
 		const arr2 = [2, 4, 6];
 
